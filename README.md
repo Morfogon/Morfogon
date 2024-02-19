@@ -2,7 +2,12 @@
 
 
 
-Engenheiro de Computação formado pelo Instituto Mauá de Tecnologia
+Sou um Engenheiro da Computação formado pelo Instituto Mauá de Tecnologia em dezembro de 2023, com uma sólida base em
+diversas linguagens de programação, gerenciamento eficiente de bancos de dados, além do desenvolvimento de aplicações web e
+aplicações cloud. a. Estou em busca de oportunidades desafiadoras e inovadoras que me permitam aplicar meu conhecimento de
+forma proativa, contribuindo para o desenvolvimento e crescimento de projetos em que esteja envolvido. Estou determinado a
+enfrentar novos desafios e continuamente aprimorar minhas habilidades.
+
 
 # Conecte-se comigo
 
