@@ -2,11 +2,10 @@
 
 
 
-Sou um Engenheiro da Computação formado pelo Instituto Mauá de Tecnologia em dezembro de 2023, com uma sólida base em
-diversas linguagens de programação, gerenciamento eficiente de bancos de dados, além do desenvolvimento de aplicações web e
-aplicações cloud. a. Estou em busca de oportunidades desafiadoras e inovadoras que me permitam aplicar meu conhecimento de
-forma proativa, contribuindo para o desenvolvimento e crescimento de projetos em que esteja envolvido. Estou determinado a
-enfrentar novos desafios e continuamente aprimorar minhas habilidades.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NULLBYTE-RGH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NULLBYTE-RGH&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLBYTE-RGH&theme=dark&hide=html,Jupyter%20Notebook&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 # Conecte-se comigo
